@@ -1,0 +1,8 @@
+using unity;
+
+class player: monomono
+{
+
+	управление
+	
+}
