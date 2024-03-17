@@ -3,6 +3,8 @@ using unity;
 class player: monomono
 {
 
-	управление
+	float mms;
+
+	input(управление)
 	
 }
