@@ -3,7 +3,7 @@ using unity;
 class player: monomono
 {
 
-	float mms;
+	
 
 	input(управление)
 	
