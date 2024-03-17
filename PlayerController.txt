@@ -4,5 +4,7 @@ class player: monomono
 {
 
 	управление
+
+	+ пробел = прыжок
 	
 }
